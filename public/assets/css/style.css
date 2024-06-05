@@ -10,6 +10,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Pacifico&family=Passion+One&family=Rubik:ital,wght@0,400;0,700;0,900;1,400&family=Schoolbell&family=Shrikhand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 body {
     background: #285d7e;
@@ -563,6 +564,23 @@ footer {
     height: 300px;
     width: 300px;
     border-radius: 50%;
+}
+
+/* Felipe's CSS */
+.felipeCarbonari h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 30px;
+    color: white;
+}
+
+#felipe {
+    height: 250px;
+    width: 250px;
+    border-radius: 30%;
+    margin: 20px;
+    border: 5px solid #2d8100;
 }
 
 @media (min-width: 650px) {
