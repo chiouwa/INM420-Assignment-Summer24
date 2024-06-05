@@ -565,6 +565,22 @@ footer {
     border-radius: 50%;
 }
 
+/* Felipe's CSS */
+.felipeCarbonari h1 {
+    font-family: "Lexend", sans-serif;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px #2c289d;
+}
+
+#felipe {
+    height: 250px;
+    width: 250px;
+    border-radius: 30%;
+    margin: 20px;
+    border: 5px solid #2d8100;
+}
+
 @media (min-width: 650px) {
     main {
         display: flex;
