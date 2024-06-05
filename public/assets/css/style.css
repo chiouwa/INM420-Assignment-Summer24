@@ -583,6 +583,23 @@ footer {
     border: 5px solid #2d8100;
 }
 
+/* inessa starts */
+.inessa{
+    background-color: #040208;
+    border-radius: 50px;
+}
+#inessa{
+    width: 300px;
+    height: 300px;
+}
+#inessaH1{
+    font-family: "Sacramento", cursive;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 50px;
+    padding-top: 20px;
+    color: #fdf5ee;
+}
 @media (min-width: 650px) {
     main {
         display: flex;
