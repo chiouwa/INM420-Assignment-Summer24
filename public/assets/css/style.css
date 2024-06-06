@@ -734,3 +734,25 @@ footer {
     border: 3px solid #C06135;
     border-radius: 30px;
 }
+
+/* Vandan's styling */
+
+#vandan {
+    width: 500px;
+    height: 350px;
+    background-color: black;
+    border-radius: 40px;
+}
+
+#vandanh1 {
+    font-family: 'playfair display';
+    font-size: 40px;
+    color: maroon;
+    padding-bottom: 10px;
+}
+
+#vandanimg {
+    height: 300PX;
+    width: 450px;
+    border-radius: 40px;
+}
