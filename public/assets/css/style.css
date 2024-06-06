@@ -710,3 +710,25 @@ footer {
 #kalashimg:hover {
     filter: blur(0px);
 }
+
+/* Vandan's CSS */
+
+#vandan {
+    width: 500px;
+    height: 400px;
+    background-color: black;
+}
+
+#vandanh1 {
+    font-family: 'playfair display';
+    font-size: 40px;
+    color: maroon;
+    padding-bottom: 10px;
+}
+
+#vandanimg {
+    height: 300PX;
+    width: 450px;
+    border-radius: 40px;
+    border: 2px maroon solid;
+}
