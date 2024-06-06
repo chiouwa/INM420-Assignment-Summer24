@@ -710,3 +710,27 @@ footer {
 #kalashimg:hover {
     filter: blur(0px);
 }
+
+/* Shiva's Styling */
+
+#shiva {
+    width: 450px;
+    height: 550px;
+    background-color: #F8E3D2;
+    border-radius: 30px;
+}
+
+#shivah1{
+    font-size: 40px;
+    color: #C06135;
+    padding: 10px 0px;
+    font-family: 'bagatela';
+    font-weight: 700;
+}
+
+#shivaimg {
+    width: 400px;
+    height: 500px;
+    border: 3px solid #C06135;
+    border-radius: 30px;
+}
